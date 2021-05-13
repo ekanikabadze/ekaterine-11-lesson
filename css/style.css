@@ -1,0 +1,123 @@
+/* header */
+.header-bg {
+    background-image: url(../images/bg.jpg);
+    height: 852px;
+    /* max-width: 1920px; */
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+.box-wraper {
+   display: flex;
+   width: 100%;
+}
+.right-box {
+    width: 100%;
+    color: #FFFFFF;
+    margin-left: 43px;
+    margin-top: 354px;
+}
+.left-box {
+    margin-top: 43px;
+    margin-left: 0;
+    max-width: 809px;
+    width: 100%;
+}
+.header-image {
+    max-width: 809px;
+    width: 100%;
+}
+.header-title {
+   max-width: 436px;
+   width: 100%;
+   font-size: 47px;
+   margin-bottom: 63.5px;
+
+}
+.header-text {
+    max-width: 449px;
+    width: 100%;
+    font-size: 20px;
+}
+.header-text p {
+    margin-bottom: 30px;
+}
+
+/* section-1 */
+.container-1 {
+    width: 100%;
+    text-align: center;
+}
+.container-title {
+    margin-top: 126px;
+    margin-bottom: 46px;
+    color: #A80E0E;
+    font-size: 40px;
+}
+.container-text {
+    margin-bottom: 126px;
+}
+/* section-2 */
+.container-2 {
+    display: flex;
+    margin-left: 235px;
+    margin-bottom: 56px;
+}
+
+.container-2-text{
+    margin-top: 70.5px;
+    margin-left: 36px;
+}
+.container-2-text h4 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+.container-2-text p {
+    font-size: 16px;
+    margin-bottom: 30px;
+} 
+.botton {
+    background-color: #FFAA00;
+    width: 164px;
+    height: 40px;
+    border-radius: 36px;
+    display: flex;
+    color: #FFFFFF;
+    font-size: 14px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 36px;
+    margin-right: 20px;
+    
+}
+
+.botton-wraper {
+    display: flex;
+    margin-bottom: 33px;
+}
+.prise {
+    margin-top: 10px;
+    color: #A80E0E;
+    font-size: 22px;
+}
+.block-1 {
+    margin-right: 58px;
+}
+
+/* section-4 */
+
+.botton-2 {
+    background-color: #A80E0E;
+    width: 255px;
+    height: 68px;
+    border-radius: 36px;
+    display: flex;
+    color: #FFFFFF;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 126px;
+    
+}
